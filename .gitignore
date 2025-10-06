@@ -1,0 +1,23 @@
+# .gitignore (минимум для VS)
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.rsuser
+*.suo
+*.user
+*.vsidx
+*.VC.db
+*.VC.opendb
+*.ipch
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.exe
+*.dll
+*.lib
+*.exp
